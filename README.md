@@ -20,7 +20,13 @@ cd FASTAPI
 python3 -m virtualenv FAST
 ~~~
 
-4). Install all the project requirements.
+4). Activate the environment i will give example for Ubuntu users
+5)
+~~~bash
+source FAST/bin/activate
+~~~
+
+5). Install all the project requirements.
 
 ~~~bash
 pip install -r requirements.txt
